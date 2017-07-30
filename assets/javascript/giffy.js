@@ -1,7 +1,7 @@
 $(document).ready(function () {
 
     // Initial array of breeds
-    var breeds = ["Corgi", "Pomeranian", "Papillon", "Chihuahua"];
+    var breeds = ["Corgi", "Pomeranian", "Chihuahua"];
 
     // Function for displaying the buttons
     function renderButtons() {
