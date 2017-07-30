@@ -1,0 +1,20 @@
+/* Common items */
+body {
+    font-family: 'Lemonada', cursive;
+    font-size: 14px;
+}
+
+input {
+    border: solid 1px;
+    margin-bottom: 3px;
+}
+
+.breed {
+    margin: 2px;
+}
+
+div.inline {
+    float:left;
+    margin: 7px;
+}
+
